@@ -1,0 +1,15 @@
+[package]
+name = "p2p_game"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+bevy = "0.11.3"
+bevy_ggrs = "0.13.0"
+bevy_rapier2d = "0.22.0"
+bytemuck = "1.14.0"
+ggrs = "0.9.4"
+particular = "0.6.1"
+structopt = "0.3.26"
